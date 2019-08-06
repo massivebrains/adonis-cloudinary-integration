@@ -1,6 +1,6 @@
-# Adonis fullstack application
+# Adonis application with Cloudinary
 
-This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
+This is the fullstack boilerplate AdonisJs application with Cloudinary Implementation.
 
 1. Bodyparser
 2. Session
